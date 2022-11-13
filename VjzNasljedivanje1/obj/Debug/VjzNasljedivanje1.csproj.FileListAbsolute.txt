@@ -1,0 +1,7 @@
+C:\Users\unkno\source\repos\VjzNasljedivanje1\VjzNasljedivanje1\bin\Debug\VjzNasljedivanje1.exe.config
+C:\Users\unkno\source\repos\VjzNasljedivanje1\VjzNasljedivanje1\bin\Debug\VjzNasljedivanje1.exe
+C:\Users\unkno\source\repos\VjzNasljedivanje1\VjzNasljedivanje1\bin\Debug\VjzNasljedivanje1.pdb
+C:\Users\unkno\source\repos\VjzNasljedivanje1\VjzNasljedivanje1\obj\Debug\VjzNasljedivanje1.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\VjzNasljedivanje1\VjzNasljedivanje1\obj\Debug\VjzNasljedivanje1.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\VjzNasljedivanje1\VjzNasljedivanje1\obj\Debug\VjzNasljedivanje1.exe
+C:\Users\unkno\source\repos\VjzNasljedivanje1\VjzNasljedivanje1\obj\Debug\VjzNasljedivanje1.pdb
